@@ -1,0 +1,11 @@
+main:
+  - title: "Overview"
+    url: /
+  - title: "Motivation"
+    url: /motivation/
+  - title: "Methods"
+    url: /methods/
+  - title: "Results"
+    url: /results/
+  - title: "Resources"
+    url: /resources/
